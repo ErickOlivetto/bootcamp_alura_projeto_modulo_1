@@ -4,7 +4,7 @@
 
 ## Dados
 
-Foram utilizados dados do TABNET a partir de 2008 para a realização do estudo. Os dados foram obtidos ao final do mês de Maio de 2021. Foram utilizados os dados de Óbtos por região/Unidade de Federação do Ano/mês de atendimento.
+Foram utilizados dados do TABNET a partir de 2008 para a realização do estudo. Os dados foram obtidos ao final do mês de Maio de 2021. Foram utilizados os dados de Óbtos por Unidade de Federação do Ano/mês de atendimento.
 
 ## Objetivo
 
