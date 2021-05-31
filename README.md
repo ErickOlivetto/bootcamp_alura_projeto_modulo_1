@@ -25,4 +25,15 @@ Por fim, como resultado da análise na região Sudeste, espera-se também uma di
 
 ## Resultados Encontrados
 
+Diferente do esperado, o número de óbitos, mesmo em relação com o número de internações, apresentou ligeiro aumento desde 2008, indicando que a utilização dos dois parâmetros ajudou a relacionar o movimento entre as regiões com populações diferentes, entretanto não permitiu a visualização desejada.
+Como esperado por conta do estudo de gasto por habitante na região sudeste, ao analisar a região Sudeste, o Estado do Rio de Janeiro apresentou uma elevação do número de óbitos maior, em comparação aos demais estados da mesma região, quando comparado em relação ao número de internações.
+Diferente do imaginado, o Estado de São Paulo apresentou relativa estabilidade da relação entre número de óbitos e número de internações.
+
+
 ## Conclusões
+
+Como conclusão do estudo, temos que a relação entre os parâmetros selecionados, de número de óbitos e número de internações, permitiu uma comparação entre regiões e estados com tamanho populacional diferente, diminuindo a diferença entre as regiões Sudeste e Norte, assim como dos Estados de São Paulo e Espírito Santo. Entretanto, utilizando ambos os parâmetros não foi possível identificar algum movimento interessante como uma redução do número de óbitos por internações, sendo possível apenas identificar uma ligeira estabilidade geral a partir de 2016.
+Mesmo assim, foi possível identificar em todo o estudo picos próximos ao início de 2020, seja do valor absoluto de óbitos quanto o valor de óbitos por internações.
+Apesar de identificar certa sazonalidade dos dados, apresentando períodos com redução de óbitos, não foi identificado nenhum padrão entre as reduções.
+Como consideração final, seria interessante a utilização de mais parâmetros, tentando identificar alguma relação com o número de óbitos, podendo ser o valor gasto ou a população, procurando entender melhor se esse parâmetro está relacionado com algum outro. Ainda com os parâmetros selecionados, seria interessante uma análise da relação entre os parâmetros, procurando identificar se eles estão diretamente ou inversamente relacionados, podendo indicar o aumento de um com a queda de outro.
+Ainda seria possível, seguindo as mesmas diretrizes do estudo, analisar outras Regiões e outros Estados, procurando outros movimentos.
