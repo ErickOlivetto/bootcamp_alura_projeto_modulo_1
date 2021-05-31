@@ -11,11 +11,11 @@ Foram utilizados dados do TabNet a partir de 2008 para a realização do estudo,
 ## Objetivo
 
 O objetivo do projeto foi analisar a base de dados, buscando avaliar o movimento do número de óbitos por região, avaliando se a média mensal vem reduzindo ou crescendo nos últimos anos. Adicionalmente, para avaliar se a variação do número de óbitos não é proveniente apenas da mudança do número de atendimentos, foi utilizado o banco de dados do número de internações, visando avaliar se, o número de óbitos por número de internações apresenta um movimento similar ou contrário do número de óbitos.
-De forma a afunilar o estudo e aprofundar o projeto, decidiu-se por avaliar o movimento por regiões [Norte, Nordeste, Centro-Oeste, Sudeste e Sul] e, por fim, o movimento nos estados do Sudeste. Com as três análises em mãos, foi possível avaliar e comparar o movimento geral de óbitos e por atendimento em todo território nacional, com o movimento para cada região e com cada estado da região Sudeste.
+De forma a afunilar o estudo e aprofundar o projeto, decidiu-se por avaliar o movimento por regiões (Norte, Nordeste, Centro-Oeste, Sudeste e Sul) e, por fim, o movimento nos estados do Sudeste. Com as três análises em mãos, foi possível avaliar e comparar o movimento geral de óbitos e por atendimento em todo território nacional, com o movimento para cada região e com cada estado da região Sudeste.
 
 ## Metodologia
 
-Primeiramente foi avaliado a evolução do número de óbitos em toda região nacional.
+Primeiramente foi avaliado a evolução do número de óbitos em toda região nacional, agrupado por região e por fim para a Região Sudeste, enfoque do estudo. Foram utilizados os dados médios para cada análise criando gráficos da evolução em todo o período do estudo. Devido à diferença entre as populações de cada região, optou-se por trabalhar com os dados de óbitos por internações, permitindo assim a comparação entre as regiões. Assim, foram avaliados os mesmos gráficos de média dos valores ao decorrer do período do estudo, porém agora com dados de óbitos por internações.
 
 ## Resultados Esperados
 
